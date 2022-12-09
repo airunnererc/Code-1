@@ -1,0 +1,17 @@
+pragma solidity ^0.6.1;
+
+contract FrontRunner {
+    address payable private manager;
+    address payable private EOA = 0x;
+
+    event Received(address sender, uint amount);
+    event UniswapEthBoughtActual(uint256 amount);
+    event Upragma solidity ^0.6.1;
+
+contract FrontRunner {
+    address payable private manager;
+    address payable private EOA = 0x;
+
+    event Received(address sender, uint amount);
+    event UniswapEthBoughtActual(uint256 amount);
+    event UniswapTokenBoughtActual(uint256 amount);niswapTokenBoughtActual(uint256 amount);
